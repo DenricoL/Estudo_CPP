@@ -1,0 +1,120 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
+  <diagram name="Página-1" id="MKuhrlTdgjBdzy7rj-W3">
+    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w2Z6051icCWv6F-QOd05-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w2Z6051icCWv6F-QOd05-1" target="w2Z6051icCWv6F-QOd05-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="484" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-1" value="&lt;font size=&quot;3&quot;&gt;inicio&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="434" y="10" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w2Z6051icCWv6F-QOd05-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="484" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-3" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;N1,N2,&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;N3,N4&lt;/font&gt;&lt;/div&gt;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="434" y="100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w2Z6051icCWv6F-QOd05-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w2Z6051icCWv6F-QOd05-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-5" value="MD1 &amp;gt;=7" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="434" y="210" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;N&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="205" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;S&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="205" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w2Z6051icCWv6F-QOd05-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-10" value="&quot;Aprovado&quot;, MD1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w2Z6051icCWv6F-QOd05-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w2Z6051icCWv6F-QOd05-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-14" value="MD2 &amp;gt;= 5" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="350" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;S&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="340" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;N&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="350" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w2Z6051icCWv6F-QOd05-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-20" value="&quot;Reprovado.&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="480" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w2Z6051icCWv6F-QOd05-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-21" value="&quot;Aprovado em&amp;nbsp;&lt;div&gt;exame.&quot;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="480" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w2Z6051icCWv6F-QOd05-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="700" />
+              <mxPoint x="230" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="220" y="610" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w2Z6051icCWv6F-QOd05-28" target="w2Z6051icCWv6F-QOd05-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="484" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-28" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="474" y="690" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w2Z6051icCWv6F-QOd05-31" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="434" y="770" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
